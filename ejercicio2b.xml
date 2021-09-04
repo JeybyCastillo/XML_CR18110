@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pais nombre="El Salvador">
+<departamento id="3" nombre="San Vicente">
+<cabecera>San Salvador</cabecera>
+<moneda>Dolar estadounidense</moneda>
+<codarea>503</codarea>
+<idioma>Español Salvadoreño</idioma>
+<segundoIdioma>Nahuat</segundoIdioma>
+<areaterritorial>21,041 km²</areaterritorial>
+<habitantes>1,700,000</habitantes>
+<altura>545 MSNM</altura>
+<avenacional>Torogoz</avenacional>
+<flornacional>Flor de Izote</flornacional>
+</departamento>
+</pais>

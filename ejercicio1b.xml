@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- ejemplo1b.xml  CR18110 -->
+<fichero>
+<ficha id="09" fechaingreso="3/9/2021">
+<nombre>Jeyby</nombre>
+<apellido>Castillo</apellido>
+<direccion>Montelimar, Olocuilta</direccion>
+<telefono>2578-8956</telefono>
+<email>cr18110@gmail.com</email>
+<website>TPI-CicloII</website>
+</ficha>
+</fichero>
